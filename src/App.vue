@@ -1,6 +1,8 @@
 <template>
   <div id="app">
-    <router-view/>
+    <button>请搜索</button>
+    <!-- <router-view/> -->
+
   </div>
 </template>
 
